@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  <img src="https://github.com/StellaOli/StellaOli/blob/main/Img/WelcomeOficial.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/StellaOli/StellaOli/blob/main/Img/Welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 <!--
 **StellaOli/StellaOli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
