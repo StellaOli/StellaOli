@@ -8,7 +8,7 @@
   
 </div>
 
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/SetllaOli)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/StellaOli)
 
 ## Hi, I'm Stella ⭐
 
@@ -32,7 +32,8 @@
 <code><img img height="32" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></code>
 
 <code><img img height="32" alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-1477D1.svg?style=for-the-badge&logo=Tinkercad&logoColor=white"></code>
-<code>  <img img height="32" alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+
+<code><img img height="32" alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 
 <code><img img height="32" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white"></code>
 
