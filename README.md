@@ -34,7 +34,7 @@
 ## GitHub Stats 📊
 * Working on coding more and learning new languages.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StellaOli&show_icons=true&theme=transparent)
 
 
 
