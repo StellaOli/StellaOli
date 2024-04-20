@@ -3,6 +3,8 @@
 
 
   <a href = "mailto:stellacorreia.oli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)] 
+   (https://discord.com/channels/@strellinha./)
   [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/SetllaOli)
 </div>
 
