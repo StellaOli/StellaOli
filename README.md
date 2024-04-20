@@ -1,7 +1,20 @@
-### Hi there 👋
 <div align="center">
-  <img src="https://github.com/StellaOli/StellaOli/blob/main/Img/Welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/StellaOli/StellaOli/blob/main/Img/Welcome.png" style="max-width: 100%;" alt="Welcome" />
+
+
+  <a href = "mailto:stellacorreia.oli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
+
+
+
+
+
+
+
+
+
+
 <!--
 **StellaOli/StellaOli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
