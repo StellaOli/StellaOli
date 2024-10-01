@@ -12,7 +12,7 @@
 
 ## Hi, I'm Stella ⭐
 
-* I'm a 22 years old student, currently studying and learning my way through my B.Sc. in Computer Science.🎓
+* I'm a 23 years old student, currently studying and learning my way through my B.Sc. in Computer Science.🎓
 * I love coding and how it can connect you to a multitude of subjects.🌌
 * Programming in Front-End and Back-End, with a preference for Back-End. ◀️
 
