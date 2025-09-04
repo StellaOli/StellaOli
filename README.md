@@ -14,7 +14,8 @@
 
 * I'm a 24 years old student, currently studying and learning my way through my B.Sc. in Computer Science.🎓
 * I love coding and how it can connect you to a multitude of subjects.🌌
-* Programming in Front-End and Back-End, with a preference for Back-End. ◀️
+* Programming in Front-End and Back-End, with a preference for Back-End. 🖥️
+* Currently working with Machine Learning and Data Analysis on my internship. 📈
 
 
 ## Experience and Skills ⚡
