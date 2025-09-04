@@ -1,20 +1,19 @@
 <div align="center">
   <img src="https://github.com/StellaOli/StellaOli/blob/main/Img/Sem%20t%C3%ADtulo.png" style="max-width: 75%;" alt="Welcome" />
 
-
   <a href = "mailto:stellacorreia.oli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@strellinha./)
    </br>
-  
+ 
 </div>
-
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/StellaOli)
 
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇i, &lt;I'm Stella/&gt;!
+    𝐇i, &lt;I'm Stella/&gt;
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
+
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/StellaOli)
 
 * I'm a 24 years old student, currently studying and learning my way through my B.Sc. in Computer Science.🎓
 * I love coding and how it can connect you to a multitude of subjects.🌌
