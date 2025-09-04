@@ -10,7 +10,11 @@
 
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/StellaOli)
 
-## Hi, I'm Stella ⭐
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇i, &lt;I'm Stella/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
 
 * I'm a 24 years old student, currently studying and learning my way through my B.Sc. in Computer Science.🎓
 * I love coding and how it can connect you to a multitude of subjects.🌌
